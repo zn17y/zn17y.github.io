@@ -14,3 +14,8 @@
 .hyperlinks {
   color: rgb(165, 94, 121)
 }
+
+.defaultformat {
+  font-family: Helvetica;
+  color: rgb(255, 255, 255)
+}
