@@ -1,5 +1,16 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+.grad {
+  background-image: linear-gradient(155deg, black, rgb(124, 31, 124))
+}
+
+.titletext {
+  color: rgb(255, 255, 255);
+  font-size: 100px;
+}
+
+.whitetext {
+  color: rgb(255, 255, 255)
+}
+
+.hyperlinks {
+  color: rgb(165, 94, 121)
+}
